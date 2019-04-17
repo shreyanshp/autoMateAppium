@@ -1,0 +1,11 @@
+/.project
+/target/
+/Reports/
+/.classpath
+.project
+/.settings/
+.metadata
+.idea/
+*.iml
+/build/
+.classpath
